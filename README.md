@@ -2,7 +2,7 @@
 
 # 情報発信サイト
 
-<h1>最新情報は[ジャパンオープン2022 開催情報](https://sites.google.com/site/robocuphomejapan/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B32022%E9%96%8B%E5%82%AC%E6%83%85%E5%A0%B1)ページをご覧ください！</1>
+<h1>最新情報は [ジャパンオープン2022 開催情報](https://sites.google.com/site/robocuphomejapan/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B32022%E9%96%8B%E5%82%AC%E6%83%85%E5%A0%B1) ページをご覧ください！</1>
 
 RoboCup JapanOpen 2022 @ホームリーグの情報発信用リポジトリです．
 
