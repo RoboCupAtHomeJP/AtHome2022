@@ -23,6 +23,10 @@ RoboCup JapanOpen 2022 @ホームリーグの情報発信用リポジトリで�
 <img src="img/timetable.png">
 
 
+## DSPL
+- [オブジェクトリスト](data/dspl_object.pdf)
+
+
 # LINK
 
 - [ルール公開サイト](https://github.com/RoboCupAtHomeJP/Rule2022)
