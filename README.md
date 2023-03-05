@@ -24,7 +24,7 @@ RoboCup JapanOpen 2022 @ホームリーグの情報発信用リポジトリで�
 
 
 ## DSPL
-- [オブジェクトリスト](data/dspl_object.pdf)
+- [オブジェクトリスト](data/dspl_objects.pdf)
 
 
 # LINK
