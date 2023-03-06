@@ -28,13 +28,13 @@ RoboCup JapanOpen 2022 @ホームリーグの情報発信用リポジトリで�
     - [オブジェクトリスト（with Predefined Location）](data/dspl_objects_with_predefined-loc.pdf)
 
 - Robot Inspection
-    - アリーナの入口：Tidy Upアリーナ（Arena 1）のEntrance
-    - アリーナの出口：Tidy Upアリーナ（Arena 1）のObstacle Avoidance Area
-    
+    - 入口：Tidy Upアリーナ（Arena 1）のEntrance
+    - 出口：Tidy Upアリーナ（Arena 1）のObstacle Avoidance Area
+
 - GPSR
     - [質問リスト](data/questions.md)
     - [人物名リスト](data/name_list.md)
-    - [GPSR・地図](data/gpsr_map.pdf)
+    - [地図](data/gpsr_map.pdf)
 
 ## OPL
 - [オブジェクトリスト](https://github.com/RoboCupAtHomeJP/AtHome2021/blob/master/Data/opl_known_object_list.pdf)
