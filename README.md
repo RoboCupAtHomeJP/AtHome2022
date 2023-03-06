@@ -31,7 +31,7 @@ RoboCup JapanOpen 2022 @ホームリーグの情報発信用リポジトリで�
 
 ## OPL
 - [オブジェクトリスト](https://github.com/RoboCupAtHomeJP/AtHome2021/blob/master/Data/opl_known_object_list.pdf)
-- [Setup Day公開情報(Pre-defined)](data/OPL公開資料(Setup Day).pdf)
+- [Setup Day公開情報(Pre-defined)](data/OPL公開資料(Setup%20Day).pdf)
 
 # LINK
 - [ルール公開サイト](https://github.com/RoboCupAtHomeJP/Rule2022)
