@@ -1,4 +1,4 @@
-<h1>最新情報は<a href="https://sites.google.com/site/robocuphomejapan/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B32022%E9%96%8B%E5%82%AC%E6%83%85%E5%A0%B1">ジャパンオープン2022 開催情報</a> ページをご覧ください！</1>
+<h1>最新情報は<a href="https://sites.google.com/site/robocuphomejapan/japanopen2022">ジャパンオープン2022 開催情報</a> ページをご覧ください！</1>
 
 
 
