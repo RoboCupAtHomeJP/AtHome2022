@@ -42,10 +42,10 @@ RoboCup JapanOpen 2022 @ホームリーグの情報発信用リポジトリで�
 
 ### スコア
 #### タスク成績
-<a href="data/dspl_score_tasks.png"> <img src="img/dspl_score_tasks.png" width="800"> </a>
+<a href="data/dspl_score_tasks.pdf"> <img src="img/dspl_score_tasks.png" width="800"> </a>
 
 #### Finals (Open Challenge) 成績
-<a href="data/dspl_score_finals.png"> <img src="img/dspl_score_finals.png" width="500"> </a>
+<a href="data/dspl_score_finals.pdf"> <img src="img/dspl_score_finals.png" width="500"> </a>
 
 ## OPL
 - [オブジェクトリスト](https://github.com/RoboCupAtHomeJP/AtHome2021/blob/master/Data/opl_known_object_list.pdf)
